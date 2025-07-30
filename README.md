@@ -6,4 +6,4 @@
 
 [Intellij Idea](https://www.jetbrains.com/idea/download/?section=windows)
 
-[PostgreSQL](https://www.enterprisedb.com/download-postgresql-binaries)
+[PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
